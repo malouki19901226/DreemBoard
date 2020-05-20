@@ -1,0 +1,29 @@
+<resources>
+    <!-- Main Elements -->
+    <string name="app_name">DreemBoard</string>
+    <string name="app_desc">Prototype</string>
+    <string name="storyboard_title">StoryBoards</string>
+    <string name="char_prof_title">Character Profiles</string>
+    <string name="settings_title">Settings</string>
+    <string name="btn_submit">Submit</string>
+
+    <!-- Characters Menu -->
+    <string name="btn_new_char">New Character</string>
+
+    <!-- Preference Titles -->
+    <string name="personal_info_header">Personal Information</string>
+    <string name="pref_header">Preferences</string>
+
+    <!-- Messages Preferences -->
+    <string name="real_name_title">Nickname</string>
+    <string name="screen_name_title">Screenname</string>
+    <string name="name_pref_title">Preferred Name</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>

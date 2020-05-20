@@ -1,0 +1,20 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="name_pref_entries">
+        <item>Real Name</item>
+        <item>Screen Name</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="name_values">
+        <item>Test Name Entry</item>
+    </string-array>
+
+    <string-array name="desc_values">
+        <item>Test Description Entry</item>
+    </string-array>
+</resources>
